@@ -1,2 +1,2 @@
-# CPSC_386_Pacman
+Pacman
 Pacman game in python 
